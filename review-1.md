@@ -10,3 +10,4 @@ En este modulo contamos con la valiosa integracion y conexion a una base de dato
 **LIVE** Colaboracion en vivo con otros usuarios o personas deseadas para transmitir informacion
 
 A los usuarios les encantara y la usaran por la facilidad que tiene para integrarse con otras aplicaciones compatibles y muy importantes.
+Los esperamos para que conozcan todas las novedades de nuestra app!
